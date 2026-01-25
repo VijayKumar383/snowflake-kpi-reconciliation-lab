@@ -99,5 +99,4 @@ snowflake-kpi-reconciliation-lab/
 └── README.md
 
 
-## Example Executive Output (Simulated)
-![Reconciliation Example](images/reconciliation_example.png)
+
