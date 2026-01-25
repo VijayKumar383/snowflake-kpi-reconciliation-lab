@@ -100,7 +100,12 @@ snowflake-kpi-reconciliation-lab/
 
 ## Executive KPI Reconciliation Snapshot
 
-This table shows how monthly revenue is validated across source, curated, and executive semantic layers, with deltas investigated before leadership review.
+This view demonstrates how monthly revenue is reconciled across:
+- Source transactions  
+- Curated fact tables  
+- Executive semantic layer  
 
-![Monthly Revenue Reconciliation](Monthly_Revenue_Recon.png)
+All deltas are investigated before numbers are approved for leadership reporting.
+
+![Monthly Revenue Reconciliation](monthly_revenue_reconciliation.png)
 
